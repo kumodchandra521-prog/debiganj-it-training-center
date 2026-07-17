@@ -1,0 +1,6 @@
+{
+  "name": "Debiganj IT Training Center",
+  "description": "দেবীগঞ্জবাসীর জন্য আধুনিক আইটি ও ফ্রিল্যান্সিং প্রশিক্ষণ কেন্দ্র। কম্পিউটার অপারেটিং, টাইপিং, গ্রাফিক ডিজাইন, ও আউটসোর্সিং কোর্স।",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
